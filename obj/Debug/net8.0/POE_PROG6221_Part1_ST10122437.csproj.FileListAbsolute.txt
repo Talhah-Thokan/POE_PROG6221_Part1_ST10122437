@@ -1,0 +1,15 @@
+/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/Part1/POE_PROG6221_Part1_ST10122437/obj/Debug/net8.0/POE_PROG6221_Part1_ST10122437.GeneratedMSBuildEditorConfig.editorconfig
+/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/Part1/POE_PROG6221_Part1_ST10122437/obj/Debug/net8.0/POE_PROG6221_Part1_ST10122437.AssemblyInfoInputs.cache
+/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/Part1/POE_PROG6221_Part1_ST10122437/obj/Debug/net8.0/POE_PROG6221_Part1_ST10122437.AssemblyInfo.cs
+/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/Part1/POE_PROG6221_Part1_ST10122437/obj/Debug/net8.0/POE_PROG6221_Part1_ST10122437.csproj.CoreCompileInputs.cache
+/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/Part1/POE_PROG6221_Part1_ST10122437/obj/Debug/net8.0/POE_PROG6221_Part1_ST10122437.sourcelink.json
+/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/Part1/POE_PROG6221_Part1_ST10122437/bin/Debug/net8.0/POE_PROG6221_Part1_ST10122437
+/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/Part1/POE_PROG6221_Part1_ST10122437/bin/Debug/net8.0/POE_PROG6221_Part1_ST10122437.deps.json
+/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/Part1/POE_PROG6221_Part1_ST10122437/bin/Debug/net8.0/POE_PROG6221_Part1_ST10122437.runtimeconfig.json
+/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/Part1/POE_PROG6221_Part1_ST10122437/bin/Debug/net8.0/POE_PROG6221_Part1_ST10122437.dll
+/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/Part1/POE_PROG6221_Part1_ST10122437/bin/Debug/net8.0/POE_PROG6221_Part1_ST10122437.pdb
+/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/Part1/POE_PROG6221_Part1_ST10122437/obj/Debug/net8.0/POE_PROG6221_Part1_ST10122437.dll
+/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/Part1/POE_PROG6221_Part1_ST10122437/obj/Debug/net8.0/refint/POE_PROG6221_Part1_ST10122437.dll
+/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/Part1/POE_PROG6221_Part1_ST10122437/obj/Debug/net8.0/POE_PROG6221_Part1_ST10122437.pdb
+/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/Part1/POE_PROG6221_Part1_ST10122437/obj/Debug/net8.0/POE_PROG6221_Part1_ST10122437.genruntimeconfig.cache
+/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/Part1/POE_PROG6221_Part1_ST10122437/obj/Debug/net8.0/ref/POE_PROG6221_Part1_ST10122437.dll
