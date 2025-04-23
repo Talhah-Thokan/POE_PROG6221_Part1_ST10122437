@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/Part1/POE_PROG6221_Part1_ST10122437_BACKUP/POE_PROG6221_Part1_ST10122437.csproj": {}
+    "/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/Part1/POE_PROG6221_Part1_ST10122437/Fresh/Fresh.csproj": {}
   },
   "projects": {
-    "/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/Part1/POE_PROG6221_Part1_ST10122437_BACKUP/POE_PROG6221_Part1_ST10122437.csproj": {
+    "/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/Part1/POE_PROG6221_Part1_ST10122437/Fresh/Fresh.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/Part1/POE_PROG6221_Part1_ST10122437_BACKUP/POE_PROG6221_Part1_ST10122437.csproj",
-        "projectName": "POE_PROG6221_Part1_ST10122437",
-        "projectPath": "/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/Part1/POE_PROG6221_Part1_ST10122437_BACKUP/POE_PROG6221_Part1_ST10122437.csproj",
+        "projectUniqueName": "/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/Part1/POE_PROG6221_Part1_ST10122437/Fresh/Fresh.csproj",
+        "projectName": "Fresh",
+        "projectPath": "/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/Part1/POE_PROG6221_Part1_ST10122437/Fresh/Fresh.csproj",
         "packagesPath": "/Users/talhahthokan/.nuget/packages/",
-        "outputPath": "/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/Part1/POE_PROG6221_Part1_ST10122437_BACKUP/obj/",
+        "outputPath": "/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/Part1/POE_PROG6221_Part1_ST10122437/Fresh/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/talhahthokan/.nuget/NuGet/NuGet.Config"
@@ -42,12 +42,6 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "System.Windows.Extensions": {
-              "target": "Package",
-              "version": "[8.0.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

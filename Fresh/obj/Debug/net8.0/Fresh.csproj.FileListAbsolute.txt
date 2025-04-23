@@ -1,0 +1,15 @@
+/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/Part1/POE_PROG6221_Part1_ST10122437/Fresh/bin/Debug/net8.0/Fresh
+/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/Part1/POE_PROG6221_Part1_ST10122437/Fresh/bin/Debug/net8.0/Fresh.deps.json
+/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/Part1/POE_PROG6221_Part1_ST10122437/Fresh/bin/Debug/net8.0/Fresh.runtimeconfig.json
+/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/Part1/POE_PROG6221_Part1_ST10122437/Fresh/bin/Debug/net8.0/Fresh.dll
+/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/Part1/POE_PROG6221_Part1_ST10122437/Fresh/bin/Debug/net8.0/Fresh.pdb
+/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/Part1/POE_PROG6221_Part1_ST10122437/Fresh/obj/Debug/net8.0/Fresh.GeneratedMSBuildEditorConfig.editorconfig
+/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/Part1/POE_PROG6221_Part1_ST10122437/Fresh/obj/Debug/net8.0/Fresh.AssemblyInfoInputs.cache
+/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/Part1/POE_PROG6221_Part1_ST10122437/Fresh/obj/Debug/net8.0/Fresh.AssemblyInfo.cs
+/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/Part1/POE_PROG6221_Part1_ST10122437/Fresh/obj/Debug/net8.0/Fresh.csproj.CoreCompileInputs.cache
+/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/Part1/POE_PROG6221_Part1_ST10122437/Fresh/obj/Debug/net8.0/Fresh.sourcelink.json
+/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/Part1/POE_PROG6221_Part1_ST10122437/Fresh/obj/Debug/net8.0/Fresh.dll
+/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/Part1/POE_PROG6221_Part1_ST10122437/Fresh/obj/Debug/net8.0/refint/Fresh.dll
+/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/Part1/POE_PROG6221_Part1_ST10122437/Fresh/obj/Debug/net8.0/Fresh.pdb
+/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/Part1/POE_PROG6221_Part1_ST10122437/Fresh/obj/Debug/net8.0/Fresh.genruntimeconfig.cache
+/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/Part1/POE_PROG6221_Part1_ST10122437/Fresh/obj/Debug/net8.0/ref/Fresh.dll

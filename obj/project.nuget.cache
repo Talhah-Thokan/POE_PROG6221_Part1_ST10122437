@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "d4EqXO4k1Wo=",
+  "dgSpecHash": "PpZvuQuPUxU=",
   "success": true,
-  "projectFilePath": "/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/Part1/POE_PROG6221_Part1_ST10122437/POE_PROG6221_Part1_ST10122437.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/Part1/POE_PROG6221_Part1_ST10122437_BACKUP/POE_PROG6221_Part1_ST10122437.csproj",
+  "expectedPackageFiles": [
+    "/Users/talhahthokan/.nuget/packages/system.windows.extensions/8.0.0/system.windows.extensions.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
